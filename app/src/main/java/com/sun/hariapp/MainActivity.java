@@ -160,6 +160,6 @@ public class MainActivity extends AppCompatActivity  {
         cities.add(new City(5, country2, state3, "kotli"));
         cities.add(new City(6, country2, state3, "bagh"));
         cities.add(new City(7, country2, state4, "neelum"));
-        cities.add(new City(8, country1, state4, "havelis"));
+        cities.add(new City(8, country1, state4, "havelis "));
     }
 }
